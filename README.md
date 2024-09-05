@@ -46,7 +46,7 @@ Options:
 
 ## Build and install
 
-First clone this repo and run:
+Clone this repo, and run:
 
 ```bash
 cargo install --path .
